@@ -1,3 +1,10 @@
 # CalculatoriOS
 
-Developed Calulator App with add/subtract/multiply/divide/cos/sin/tan functionality in portrait and landscape view
+Developed Calulator App with functionality in portrait and landscape view: 
+- add
+- subtract
+- multiply
+- divide
+- cos
+- sin
+- tan 
